@@ -19,3 +19,11 @@ C:\Users\cflac\BotDetection\COFBotDetection\obj\Debug\net7.0-windows\refint\COFB
 C:\Users\cflac\BotDetection\COFBotDetection\obj\Debug\net7.0-windows\COFBotDetection.pdb
 C:\Users\cflac\BotDetection\COFBotDetection\obj\Debug\net7.0-windows\COFBotDetection.genruntimeconfig.cache
 C:\Users\cflac\BotDetection\COFBotDetection\obj\Debug\net7.0-windows\ref\COFBotDetection.dll
+C:\Users\tefum\vscode\COFBotDetection\obj\Debug\net7.0-windows\COFBotDetection.csproj.AssemblyReference.cache
+C:\Users\tefum\vscode\COFBotDetection\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\tefum\vscode\COFBotDetection\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\tefum\vscode\COFBotDetection\obj\Debug\net7.0-windows\COFBotDetection_MarkupCompile.cache
+C:\Users\tefum\vscode\COFBotDetection\obj\Debug\net7.0-windows\COFBotDetection_MarkupCompile.lref
+C:\Users\tefum\vscode\COFBotDetection\obj\Debug\net7.0-windows\COFBotDetection.dll
+C:\Users\tefum\vscode\COFBotDetection\obj\Debug\net7.0-windows\refint\COFBotDetection.dll
+C:\Users\tefum\vscode\COFBotDetection\obj\Debug\net7.0-windows\COFBotDetection.pdb
