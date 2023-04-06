@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tefum\\vscode\\COFBotDetection\\COFBotDetection-1\\COFBotDetection-1.csproj",
+      "projectUniqueName": "C:\\Users\\tefum\\vscode\\COFBotDetection\\COFBotDetection-1.csproj",
       "projectName": "COFBotDetection-1",
-      "projectPath": "C:\\Users\\tefum\\vscode\\COFBotDetection\\COFBotDetection-1\\COFBotDetection-1.csproj",
+      "projectPath": "C:\\Users\\tefum\\vscode\\COFBotDetection\\COFBotDetection-1.csproj",
       "packagesPath": "C:\\Users\\tefum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tefum\\vscode\\COFBotDetection\\COFBotDetection-1\\obj\\",
+      "outputPath": "C:\\Users\\tefum\\vscode\\COFBotDetection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tefum\\AppData\\Roaming\\NuGet\\NuGet.Config",
