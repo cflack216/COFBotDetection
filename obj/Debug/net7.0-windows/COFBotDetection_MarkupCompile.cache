@@ -1,20 +1,20 @@
 ﻿COFBotDetection
-1.0.0.0
+
 
 winexe
 C#
 .cs
-c:\Users\tefum\vscode\COFBotDetection\obj\Debug\net7.0-windows\
+C:\Users\cflac\BotDetection\COFBotDetection\obj\Debug\net7.0-windows\
 COFBotDetection
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-c:\Users\tefum\vscode\COFBotDetection\App.xaml
+C:\Users\cflac\BotDetection\COFBotDetection\App.xaml
 11407045341
 
-5160246754
-198-2048575587
+3-1233169557
+1981911467256
 MainWindow.xaml;
 
-True
+False
 

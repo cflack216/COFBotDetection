@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tefum\\vscode\\COFBotDetection\\COFBotDetection.csproj": {}
+    "C:\\Users\\cflac\\BotDetection\\COFBotDetection\\COFBotDetection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tefum\\vscode\\COFBotDetection\\COFBotDetection.csproj": {
+    "C:\\Users\\cflac\\BotDetection\\COFBotDetection\\COFBotDetection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tefum\\vscode\\COFBotDetection\\COFBotDetection.csproj",
+        "projectUniqueName": "C:\\Users\\cflac\\BotDetection\\COFBotDetection\\COFBotDetection.csproj",
         "projectName": "COFBotDetection",
-        "projectPath": "C:\\Users\\tefum\\vscode\\COFBotDetection\\COFBotDetection.csproj",
-        "packagesPath": "C:\\Users\\tefum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tefum\\vscode\\COFBotDetection\\obj\\",
+        "projectPath": "C:\\Users\\cflac\\BotDetection\\COFBotDetection\\COFBotDetection.csproj",
+        "packagesPath": "C:\\Users\\cflac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cflac\\BotDetection\\COFBotDetection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tefum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cflac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/ExploreITOhio/_packaging/ExploreITOhio/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0-windows7.0": {
@@ -59,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
