@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace COFBotDetection_1
+namespace COFBotDetection
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
